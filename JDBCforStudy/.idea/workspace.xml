@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9763d502-b2b5-4ba6-a3f9-98e635ebceee" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\Operation software\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true -DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="20zYjGCvXoowOnyoy4AUNu8iQYZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="构件" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\My Lie\make\java\JDBCforStudy\jbdc-01-first" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="jdbc-03-SQLConnectionPool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
+      <module name="jdbc-01-first" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="jdbc-02-utils" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.main" />
+        <item itemvalue="应用程序.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9763d502-b2b5-4ba6-a3f9-98e635ebceee" name="默认的" comment="" />
+      <created>1637049017284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637049017284</updated>
+      <workItem from="1637049019937" duration="5868000" />
+      <workItem from="1637060690592" duration="5812000" />
+      <workItem from="1637132455536" duration="6943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1643" y="482" key="#HTTP代理" timestamp="1637057280025">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1643" y="482" key="#HTTP代理/0.0.2560.1400@0.0.2560.1400" timestamp="1637057280025" />
+    <state x="1725" y="660" key="#自定义插件存储库" timestamp="1637057284076">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="660" key="#自定义插件存储库/0.0.2560.1400@0.0.2560.1400" timestamp="1637057284076" />
+    <state width="1040" height="213" key="GridCell.Tab.0.bottom" timestamp="1637143603460">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1040" height="213" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1637143603460" />
+    <state width="1040" height="213" key="GridCell.Tab.0.center" timestamp="1637143603460">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1040" height="213" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1637143603460" />
+    <state width="1040" height="213" key="GridCell.Tab.0.left" timestamp="1637143603460">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1040" height="213" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1637143603460" />
+    <state width="1040" height="213" key="GridCell.Tab.0.right" timestamp="1637143603460">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1040" height="213" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1637143603460" />
+    <state x="1329" y="287" key="Maven.ArtifactSearchDialog" timestamp="1637133647221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1329" y="287" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637133647221" />
+    <state x="1327" y="409" key="SettingsEditor" timestamp="1637057830399">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1327" y="409" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637057830399" />
+    <state x="1287" y="610" width="922" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1637061113971">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1287" y="610" width="922" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1637061113971" />
+    <state x="1336" y="482" key="new project wizard" timestamp="1637133008634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1336" y="482" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1637133008634" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

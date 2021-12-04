@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-threadRealization/01-threadRealization.iml" filepath="$PROJECT_DIR$/01-threadRealization/01-threadRealization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Concurrent/02-Concurrent.iml" filepath="$PROJECT_DIR$/02-Concurrent/02-Concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Lambda/03-Lambda.iml" filepath="$PROJECT_DIR$/03-Lambda/03-Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-ThreadState/04-ThreadState.iml" filepath="$PROJECT_DIR$/04-ThreadState/04-ThreadState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Communication/05-Communication.iml" filepath="$PROJECT_DIR$/05-Communication/05-Communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-ThreadPool/06-ThreadPool.iml" filepath="$PROJECT_DIR$/06-ThreadPool/06-ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JMM-01-volatile/JMM-01-volatile.iml" filepath="$PROJECT_DIR$/JMM-01-volatile/JMM-01-volatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JMM-02-single/JMM-02-single.iml" filepath="$PROJECT_DIR$/JMM-02-single/JMM-02-single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JMM-03-Lock/JMM-03-Lock.iml" filepath="$PROJECT_DIR$/JMM-03-Lock/JMM-03-Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC-01-Concurrent/JUC-01-Concurrent.iml" filepath="$PROJECT_DIR$/JUC-01-Concurrent/JUC-01-Concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC-02-Collection/JUC-02-Collection.iml" filepath="$PROJECT_DIR$/JUC-02-Collection/JUC-02-Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC-03-Callable/JUC-03-Callable.iml" filepath="$PROJECT_DIR$/JUC-03-Callable/JUC-03-Callable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC-04-Pool/JUC-04-Pool.iml" filepath="$PROJECT_DIR$/JUC-04-Pool/JUC-04-Pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaThreadStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaThreadStudy.iml" />
+    </modules>
+  </component>
+</project>

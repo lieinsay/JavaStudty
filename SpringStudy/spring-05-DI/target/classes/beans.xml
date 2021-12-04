@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:c="http://www.springframework.org/schema/c"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--p命名空间-->
+    <bean id="student_p" class="Student" p:name="lie" p:address-ref="address"/>
+    <bean id="address" class="Address">
+        <property name="address" value="河北省沧州市"/>
+    </bean>
+    <!--c命名空间-->
+    <bean id="student_c" class="Student" c:name="lie" c:_1="null"/>
+
+    <!--set注入的各种属性-->
+    <bean id="student" class="Student" scope="prototype">
+        <!--第一种，普通值注入，value-->
+        <property name="name" value="lie"/>
+        <!--第二种 ref 注入，或者这样匿名bean注入-->
+        <property name="address">
+            <bean class="Address">
+                <property name="address" value="河北省沧州市"/>
+            </bean>
+        </property>
+        <!--第三种 array 注入-->
+        <property name="books">
+            <array>
+                <value><![CDATA[《红楼梦》]]></value>
+                <value>《西游记》</value>
+            </array>
+        </property>
+        <!--第四种 list 注入-->
+        <property name="hobbies">
+            <list>
+                <value>听歌</value>
+                <value>写代码</value>
+            </list>
+        </property>
+        <!--第五种 map 注入-->
+        <property name="card">
+            <map>
+                <entry key="1" value="我是一"/>
+                <entry key="2" value="我说二"/>
+            </map>
+        </property>
+        <!--第六种 set 注入-->
+        <property name="games">
+            <set>
+                <value>LOL</value>
+                <value>LOL</value>
+                <value>Assassin</value>
+            </set>
+        </property>
+        <!--第七种 Properties 注入-->
+        <property name="info">
+            <props>
+                <prop key="admin">123456</prop>
+                <prop key="root">root </prop>
+            </props>
+        </property>
+        <!--第八种 null 注入-->
+        <property name="wife"><null/></property>
+    </bean>
+</beans>

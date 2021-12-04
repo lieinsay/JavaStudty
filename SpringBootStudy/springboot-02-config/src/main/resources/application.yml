@@ -1,0 +1,55 @@
+## properties 格式
+## 应用名称
+#spring.application.name=springboot-02-config
+#
+#  # 应用服务 WEB 访问端口
+#server.port=8080
+#
+## springboot这个配置文件中可以配置那些文件
+
+# springboot的多环境配置：可以选择激活哪一个配置文件
+
+spring:
+  application:
+    name: "springboot-02-config"
+
+server:
+  port: 8080
+
+person:
+  name: zyw
+  age: 22
+  happy: false
+  birth: 2021/10/26
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - music
+    - girl
+  dog:
+    name: wangcai
+    age: 3
+dog2:
+  name: 1535736017@qq.com
+  age: 3
+debug: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

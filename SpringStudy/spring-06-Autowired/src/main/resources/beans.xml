@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="cat" class="com.lie.pojo.Cat">
+        <property name="name" value="tom"/>
+    </bean>
+    <bean id="dog" class="com.lie.pojo.Dog"/>
+    <bean id="people" class="com.lie.pojo.People"/>
+    <context:annotation-config/>
+
+</beans>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+
+<!--    <bean id="cat" class="com.lie.pojo.Cat"/>-->
+<!--    <bean id="dog" class="com.lie.pojo.Dog"/>-->
+
+<!--    &lt;!&ndash;-->
+<!--    byName: 会自动在容器上下文中查找，和自己对象set方面后面值对应的bean id-->
+<!--    byType: 会自动在容器上下文中查找，和自己对象属性类型相同的bean-->
+<!--    &ndash;&gt;-->
+<!--    <bean id="people" class="com.lie.pojo.People" autowire="byName">-->
+<!--        <property name="name" value="lie"/>-->
+<!--    </bean>-->
+<!--    <bean id="people1" class="com.lie.pojo.People" autowire="byType">-->
+<!--        <property name="name" value="lie"/>-->
+<!--    </bean>-->
+<!--</beans>-->

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a328b67-b442-40f9-8fb8-d802e31133be" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\Operation software\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true -DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="212fJekg337uMejGwRFF1GoEDjD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../课程/笔记/Note" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.14257812" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\My Lie\make\java\JavaThreadStudy\03-Lambda\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.SpinlockDemo">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01" />
+      <module name="JMM-03-Lock" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumSingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumSingle" />
+      <module name="JMM-02-single" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JMMDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JMMDemo2" />
+      <module name="JMM-01-volatile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyThread" />
+      <module name="01-threadRealization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpinlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpinlockDemo" />
+      <module name="JMM-03-Lock" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CAS.demo01" />
+      <module name="JMM-01-volatile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CAS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.SpinlockDemo" />
+        <item itemvalue="应用程序.Demo01" />
+        <item itemvalue="应用程序.demo01" />
+        <item itemvalue="应用程序.EnumSingle" />
+        <item itemvalue="应用程序.JMMDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a328b67-b442-40f9-8fb8-d802e31133be" name="默认的" comment="" />
+      <created>1637144034363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637144034363</updated>
+      <workItem from="1637144036126" duration="45000" />
+      <workItem from="1637144135250" duration="2000" />
+      <workItem from="1637144139412" duration="375000" />
+      <workItem from="1637144519720" duration="45000" />
+      <workItem from="1637144568740" duration="179000" />
+      <workItem from="1637144752483" duration="3262000" />
+      <workItem from="1637148865574" duration="4969000" />
+      <workItem from="1637156584851" duration="83000" />
+      <workItem from="1637156675903" duration="23000" />
+      <workItem from="1637156702276" duration="49000" />
+      <workItem from="1637156754861" duration="66000" />
+      <workItem from="1637156824438" duration="66000" />
+      <workItem from="1637156893772" duration="48000" />
+      <workItem from="1637156945236" duration="2000" />
+      <workItem from="1637215908128" duration="13579000" />
+      <workItem from="1637237388109" duration="4590000" />
+      <workItem from="1637301742651" duration="2939000" />
+      <workItem from="1637304834792" duration="6575000" />
+      <workItem from="1637474852218" duration="12553000" />
+      <workItem from="1637500289280" duration="1347000" />
+      <workItem from="1637574063168" duration="7116000" />
+      <workItem from="1637653948125" duration="528000" />
+      <workItem from="1637668956058" duration="2991000" />
+      <workItem from="1637751403998" duration="4115000" />
+      <workItem from="1637757059512" duration="412000" />
+      <workItem from="1637836121990" duration="4730000" />
+      <workItem from="1637909777176" duration="9444000" />
+      <workItem from="1638007964368" duration="7585000" />
+      <workItem from="1638084466201" duration="9356000" />
+      <workItem from="1638168897073" duration="2242000" />
+      <workItem from="1638182210796" duration="6193000" />
+      <workItem from="1638242019064" duration="41000" />
+      <workItem from="1638446786618" duration="879000" />
+      <workItem from="1638447681629" duration="3488000" />
+      <workItem from="1638596043257" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1821" y="530" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638084508637">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1821" y="530" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1638084508637" />
+    <state x="1696" y="283" width="388" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1638011819034">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1696" y="283" width="388" height="594" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1638011819034" />
+    <state x="1744" y="507" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1637144499814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1744" y="507" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1637144499814" />
+    <state x="756" y="235" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1637218090925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="756" y="235" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1637218090925" />
+    <state x="1682" y="484" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1638187174796">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1682" y="484" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1638187174796" />
+    <state x="1454" y="218" key="#项目结构" timestamp="1637156925500">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1454" y="218" key="#项目结构/0.0.2560.1400@0.0.2560.1400" timestamp="1637156925500" />
+    <state x="1680" y="565" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1637836212638">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1680" y="565" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400@0.0.2560.1400" timestamp="1637836212638" />
+    <state x="1786" y="529" key="FileChooserDialogImpl" timestamp="1637837450424">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1786" y="529" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1637837450424" />
+    <state width="1094" height="172" key="GridCell.Tab.0.bottom" timestamp="1638452308231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="172" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1638452308231" />
+    <state width="1094" height="172" key="GridCell.Tab.0.center" timestamp="1638452308231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="172" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1638452308231" />
+    <state width="1094" height="172" key="GridCell.Tab.0.left" timestamp="1638452308231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="172" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1638452308231" />
+    <state width="1094" height="172" key="GridCell.Tab.0.right" timestamp="1638452308231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="172" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1638452308231" />
+    <state width="1094" height="227" key="GridCell.Tab.1.bottom" timestamp="1638105896558">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="227" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1638105896558" />
+    <state width="1094" height="227" key="GridCell.Tab.1.center" timestamp="1638105896558">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="227" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1638105896558" />
+    <state width="1094" height="227" key="GridCell.Tab.1.left" timestamp="1638105896558">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="227" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1638105896558" />
+    <state width="1094" height="227" key="GridCell.Tab.1.right" timestamp="1638105896558">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1094" height="227" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1638105896558" />
+    <state x="1454" y="218" key="SettingsEditor" timestamp="1637144447991">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1454" y="218" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1637144447991" />
+    <state x="1463" y="461" width="987" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1637498048135">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1463" y="461" width="987" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1637498048135" />
+    <state x="690" y="130" width="1631" height="1036" key="dock-window-1" timestamp="1637837991094">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="690" y="130" width="1631" height="1036" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1637837991094" />
+    <state x="288" y="91" width="1861" height="1199" key="dock-window-2" timestamp="1637753171764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="288" y="91" width="1861" height="1199" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1637753171764" />
+    <state x="49" y="95" width="1669" height="1209" maximized="true" key="dock-window-3" timestamp="1637754973695">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="49" y="95" width="1669" height="1209" maximized="true" key="dock-window-3/0.0.2560.1400@0.0.2560.1400" timestamp="1637754973695" />
+    <state x="1420" y="697" key="new project wizard" timestamp="1638447575366">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1420" y="697" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1638447575366" />
+    <state x="1669" y="389" key="refactoring.ChangeSignatureDialog" timestamp="1638183747767">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1669" y="389" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1638183747767" />
+    <state x="1607" y="352" key="run.anything.popup" timestamp="1638446821222">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1607" y="352" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1638446821222" />
+    <state x="1673" y="502" width="672" height="678" key="search.everywhere.popup" timestamp="1638011423418">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1673" y="502" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1638011423418" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaThreadStudy$FirstThread.ic" NAME="FirstThread Coverage Results" MODIFIED="1637144773217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

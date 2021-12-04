@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--set方法名 set注入-->
+    <bean id="user0" class="User">
+        <property name="name">
+            <bean class="java.lang.String">
+                <constructor-arg value="FuckYouFuck"/>
+                <constructor-arg value="0"/>
+                <constructor-arg value="6"/>
+            </bean>
+        </property>
+    </bean>
+    <!--下标赋值 构造器注入-->
+    <bean id="user1" class="User">
+        <constructor-arg index="0" value="HeiHei"/>
+    </bean>
+    <!--类型赋值-->
+    <bean id="user2" class="User">
+        <constructor-arg type="java.lang.String" value="Yeah"/>
+    </bean>
+    <!--直接通过参数名 构造器注入-->
+    <bean id="user3" class="User">
+        <constructor-arg name="name" value="test"/>
+    </bean>
+    <!--ref引入 构造器注入-->
+    <bean id="str" class="java.lang.String" name="str1,str2">
+        <constructor-arg value="stringObject"/>
+        <constructor-arg value="0"/>
+        <constructor-arg value="6"/>
+    </bean>
+    <bean id="user4" class="User">
+        <constructor-arg ref="str2"/>
+    </bean>
+    <!--别名-->
+    <alias name="str" alias="strNew"></alias>
+
+
+
+
+</beans>

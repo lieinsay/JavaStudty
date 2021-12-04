@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/12组停车管理系统" />
+      <excludeFolder url="file://$MODULE_DIR$/AnnotationAndReflexStudy/Annotation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/AnnotationAndReflexStudy/Reflection/target" />
+      <excludeFolder url="file://$MODULE_DIR$/GameGirlProject" />
+      <excludeFolder url="file://$MODULE_DIR$/JDBCforStudy/jdbc-01-first/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JDBCforStudy/jdbc-02-utils/target/classes/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/JDBCforStudy/jdbc-03-SQLConnectionPool/target/classes/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/JDBCforStudy/jdbc-03-SQLConnectionPool/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/JarPackage" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/01-threadRealization/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/02-Concurrent/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/04-ThreadState/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/05-Communication/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/06-ThreadPool/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JMM-01-volatile/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JMM-02-single/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JMM-03-Lock/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JUC-01-Concurrent/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JUC-02-Collection/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JUC-03-Callable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/JavaThreadStudy/JUC-04-Pool/target" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-01/target/classes/com" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-01/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-02/target/classes/com" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-02/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-03/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-03/target/classes/com" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-03/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-04/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-04/target/classes/com" />
+      <excludeFolder url="file://$MODULE_DIR$/MybatisStudy/mybatis-04/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/RTO" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringBootStudy/springboot-01-helloworld/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringBootStudy/springboot-02-config/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringBootStudy/springboot-03-web/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringBootStudy/springboot-04-websystem/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-01-ioc1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-02-hellospring/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-03-ioc1Spring/target/classes/dao" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-03-ioc1Spring/target/classes/service" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-03-ioc1Spring/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-04-ioc2/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-05-DI/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-06-Autowired/target/classes/com" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-06-Autowired/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-07-anno/target/classes/com" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-07-anno/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-08-appConfig/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-09-proxy/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-10-aop/target/classes/diy" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-10-aop/target/classes/log" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-10-aop/target/classes/service" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-10-aop/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-11-mybatis/target/classes/com/lie/pojo" />
+      <excludeFolder url="file://$MODULE_DIR$/SpringStudy/spring-11-mybatis/target/test-classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
